@@ -24,9 +24,9 @@ A modern, lightweight React hook library for handling keyboard shortcuts with co
 ## Installation
 
 ```bash
-npm install react-keyboard-shortcuts
+npm install @amarkanala/react-keyboard-shortcuts
 # or
-yarn add react-keyboard-shortcuts
+yarn add @amarkanala/react-keyboard-shortcuts
 ```
 
 ## Running Tests
