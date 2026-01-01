@@ -1,5 +1,5 @@
 import { renderHook, act } from '@testing-library/react';
-import { useKeyboardShortcut, useKeyboardShortcuts } from '../dist/useKeyboardShortcut.js';
+import { useKeyboardShortcut, useKeyboardShortcuts } from '../useKeyboardShortcut';
 
 // Mock document methods
 const mockAddEventListener = jest.spyOn(document, 'addEventListener');
