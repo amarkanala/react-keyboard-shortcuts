@@ -29,21 +29,6 @@ npm install react-keyboard-shortcuts
 yarn add react-keyboard-shortcuts
 ```
 
-## Publishing to npm
-
-Before publishing, update the following placeholders in `package.json`:
-
-- `"author"`: Replace `"Your Name"` with your actual name
-- `"repository"`: Update the GitHub URL to match your repository
-- `"bugs"` and `"homepage"`: Update URLs accordingly
-
-Then run:
-
-```bash
-npm login
-npm publish
-```
-
 ## Running Tests
 
 ```bash
